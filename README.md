@@ -1,5 +1,5 @@
-# IV_adiaz
-Repositorio para la asignatura de Infraestructura Virtual
+# EasyRoute
+Repositorio para la asignatura de Infraestructura Virtual.
 
 # Descripción del problema
 
